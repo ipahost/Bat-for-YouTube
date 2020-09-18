@@ -8,9 +8,9 @@ A powerful tweak for YouTube!
 
 * **Sideloading (No Jailbreak Required):** 
    
-    | Application | Version | Owl |
+    | Application | Version | Bat |
     | --- | --- | --- |
-    | [YouTube](https://mega.nz/file/EAxAWAIY#fJdZAWrAJlYfx0N3uLgv-96QbOhkStc6VPHYGYCxyI4) | 15.36.2 | 1.1 |
+    | [YouTube](https://mega.nz/file/pApxBIoa#zVoRAXL0lgY2Y2V4n3eavQ29umwWGnn7tOhImT_Um38) | 15.36.2 | 1.1 |
 
         
 &nbsp;
@@ -18,6 +18,7 @@ A powerful tweak for YouTube!
 ***Features***
 
 - [x] No ads
+- [x] Background Playback
 - [x] Prevent Auto Playback
 - [x] Auto replay videos when finished
 - [x] Allow HD Quality
