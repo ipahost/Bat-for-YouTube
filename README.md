@@ -10,7 +10,7 @@ A powerful tweak for YouTube!
    
     | Application | Version | Bat |
     | --- | --- | --- |
-    | [YouTube](https://mega.nz/file/lRJDWIJL#AWfIo7s6mOwlvTpkKfTzc3G6GFmW_pO3JfmHrB8sqvQ) | 15.36.2 | 1.2 |
+    | [YouTube](https://mega.nz/file/kRIAER5I#ldbf4Hdr_lcIRog4q0nhQBwWCm5TqNGH7Dvo8HlSVJI) | 15.43.4 | 1.3 |
 
         
 &nbsp;
@@ -18,6 +18,7 @@ A powerful tweak for YouTube!
 ***Features***
 
 - [x] No ads
+- [x] Sleep mode
 - [x] Background Playback
 - [x] Prevent Auto Playback
 - [x] Auto replay videos when finished
@@ -26,6 +27,7 @@ A powerful tweak for YouTube!
 - [x] Auto Unsubscribe 
 - [x] Auto Like all videos
 - [x] Auto dislike all videos
+- [x] Save short stories
 
 ## How to Download
 
