@@ -10,7 +10,7 @@ A powerful tweak for YouTube!
    
     | Application | Version | Bat |
     | --- | --- | --- |
-    | [YouTube](https://mega.nz/file/0NYEwDjZ#B93BEkD86s0LMg1tGIjjJutOShWjtIpLc2OnTXlA0OI) | 15.43.4 | 1.3 |
+    | [YouTube](https://mega.nz/file/pMwjXayZ#JixqcKWFeTBQ9CTsJ1IVQNrtA1f0WIwIJmbAE38-UaY) | 15.47.3 | 1.4 |
 
         
 &nbsp;
